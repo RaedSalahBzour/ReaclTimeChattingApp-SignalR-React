@@ -1,3 +1,4 @@
+using RealChatApp.API.DataService;
 using RealChatApp.API.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +20,8 @@ builder.Services.AddCors(opt =>
         .AllowCredentials();
     });
 });
+
+builder.Services.AddSingleton<SharedDB>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
