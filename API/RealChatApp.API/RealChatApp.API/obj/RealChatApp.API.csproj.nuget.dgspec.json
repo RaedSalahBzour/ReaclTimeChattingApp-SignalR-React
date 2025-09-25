@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj": {}
+    "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\ReaclTimeChattingApp-React\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj": {
+    "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\ReaclTimeChattingApp-React\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\ReaclTimeChattingApp-React\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj",
         "projectName": "RealChatApp.API",
-        "projectPath": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj",
+        "projectPath": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\ReaclTimeChattingApp-React\\API\\RealChatApp.API\\RealChatApp.API\\RealChatApp.API.csproj",
         "packagesPath": "C:\\Users\\BisanCo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\API\\RealChatApp.API\\RealChatApp.API\\obj\\",
+        "outputPath": "C:\\Users\\BisanCo\\Desktop\\ReactChattingApp\\ReaclTimeChattingApp-React\\API\\RealChatApp.API\\RealChatApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
